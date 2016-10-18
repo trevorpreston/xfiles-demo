@@ -1,0 +1,15 @@
+{
+  "name": "server-app",
+  "version": "1.0.0",
+  "description": "Server application for sightings",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Celeste Glavin",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.4.2",
+    "express": "^4.14.0"
+  }
+}
